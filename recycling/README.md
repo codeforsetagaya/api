@@ -18,9 +18,9 @@
 
 ## APIの使い方
 
-- 収集日: [api/recycling/area_days.csv](https://codeforsetagaya.github.io/codeforsetagaya/api/recycling/area_days.csv)
-- センター情報: [api/recycling/center.csv](https://codeforsetagaya.github.io/codeforsetagaya/api/recycling/center.csv)
-- ゴミの種類: [api/recycling/target.csv](https://codeforsetagaya.github.io/codeforsetagaya/api/recycling/target.csv)
+- 収集日: [api/recycling/area_days.csv](https://codeforsetagaya.github.io/api/recycling/area_days.csv)
+- センター情報: [api/recycling/center.csv](https://codeforsetagaya.github.io/api/recycling/center.csv)
+- ゴミの種類: [api/recycling/target.csv](https://codeforsetagaya.github.io/api/recycling/target.csv)
 
 ## APIを利用したアプリケーション
 
