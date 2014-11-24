@@ -2,6 +2,7 @@
 
 ## データの出典
 
+- [世田谷区長選挙　開票結果](http://www.city.setagaya.lg.jp/kurashi/107/788/790/d00033393.html)
 - [世田谷区議会議員選挙　開票結果](http://www.city.setagaya.lg.jp/kurashi/107/788/790/d00033392.html)
 
 ## 元のライセンス
@@ -18,6 +19,8 @@
 
 ## APIの使い方
 
+- 区長候補者の得票(CSV): [api/election/2011/candidate-mayor.csv](https://codeforsetagaya.github.io/api/election/2011/candidate-mayor.csv])
+- 区長候補者の得票(JSON): [api/election/2011/candidate-mayor.json](https://codeforsetagaya.github.io/api/election/2011/candidate-mayor.json])
 - 議員候補者の得票(CSV): [api/election/2011/candidate-member.csv](https://codeforsetagaya.github.io/api/election/2011/candidate-member.csv])
 - 議員候補者の得票(JSON): [api/election/2011/candidate-member.json](https://codeforsetagaya.github.io/api/election/2011/candidate-member.json])
 

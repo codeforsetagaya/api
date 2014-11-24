@@ -1,0 +1,37 @@
+[
+  {
+    "order":1,
+    "elected":"true",
+    "name":"保坂　のぶと",
+    "party":"無所属",
+    "votes":83983
+  },
+  {
+    "order":2,
+    "elected":"false",
+    "name":"花輪　ともふみ",
+    "party":"無所属",
+    "votes":78444
+  },
+  {
+    "order":3,
+    "elected":"false",
+    "name":"川上　和彦",
+    "party":"無所属",
+    "votes":60340
+  },
+  {
+    "order":4,
+    "elected":"false",
+    "name":"すがや　やすこ",
+    "party":"無所属",
+    "votes":40831
+  },
+  {
+    "order":5,
+    "elected":"false",
+    "name":"けいの　靖幸",
+    "party":"無所属",
+    "votes":9963
+  }
+]
