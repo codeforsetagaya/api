@@ -19,10 +19,10 @@
 
 ## APIの使い方
 
-- 区長候補者の得票(CSV): [api/election/2011/candidate-mayor.csv](https://codeforsetagaya.github.io/api/election/2011/candidate-mayor.csv])
-- 区長候補者の得票(JSON): [api/election/2011/candidate-mayor.json](https://codeforsetagaya.github.io/api/election/2011/candidate-mayor.json])
-- 議員候補者の得票(CSV): [api/election/2011/candidate-member.csv](https://codeforsetagaya.github.io/api/election/2011/candidate-member.csv])
-- 議員候補者の得票(JSON): [api/election/2011/candidate-member.json](https://codeforsetagaya.github.io/api/election/2011/candidate-member.json])
+- 区長候補者の得票(CSV): [api/election/2011/candidate-mayor.csv](https://codeforsetagaya.github.io/api/election/2011/candidate-mayor.csv)
+- 区長候補者の得票(JSON): [api/election/2011/candidate-mayor.json](https://codeforsetagaya.github.io/api/election/2011/candidate-mayor.json)
+- 議員候補者の得票(CSV): [api/election/2011/candidate-member.csv](https://codeforsetagaya.github.io/api/election/2011/candidate-member.csv)
+- 議員候補者の得票(JSON): [api/election/2011/candidate-member.json](https://codeforsetagaya.github.io/api/election/2011/candidate-member.json)
 
 ### フィールド名
 
