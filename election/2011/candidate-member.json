@@ -1,0 +1,576 @@
+[
+  {
+    "order":1,
+    "elected":"true",
+    "name":"大場　やすのぶ",
+    "party":"自由民主党",
+    "votes":9617.756
+  },
+  {
+    "order":2,
+    "elected":"true",
+    "name":"ひうち　優子",
+    "party":"無所属",
+    "votes":8411
+  },
+  {
+    "order":3,
+    "elected":"true",
+    "name":"菅沼　つとむ",
+    "party":"自由民主党",
+    "votes":7226
+  },
+  {
+    "order":4,
+    "elected":"true",
+    "name":"田中　優子",
+    "party":"みんなの党",
+    "votes":7216
+  },
+  {
+    "order":5,
+    "elected":"true",
+    "name":"おおば　正明",
+    "party":"世田谷行革110番",
+    "votes":7161.243
+  },
+  {
+    "order":6,
+    "elected":"true",
+    "name":"上川　あや",
+    "party":"無所属",
+    "votes":7099
+  },
+  {
+    "order":7,
+    "elected":"true",
+    "name":"宍戸　のりお",
+    "party":"自由民主党",
+    "votes":7057
+  },
+  {
+    "order":8,
+    "elected":"true",
+    "name":"風間　ゆたか",
+    "party":"民主党",
+    "votes":6116
+  },
+  {
+    "order":9,
+    "elected":"true",
+    "name":"佐藤　美樹",
+    "party":"民主党",
+    "votes":5918.911
+  },
+  {
+    "order":10,
+    "elected":"true",
+    "name":"すえおか　雅之",
+    "party":"みんなの党",
+    "votes":5819
+  },
+  {
+    "order":11,
+    "elected":"true",
+    "name":"畠山　しんいち",
+    "party":"自由民主党",
+    "votes":5194
+  },
+  {
+    "order":12,
+    "elected":"true",
+    "name":"上島　よしもり",
+    "party":"自由民主党",
+    "votes":5134
+  },
+  {
+    "order":13,
+    "elected":"true",
+    "name":"小泉　たま子",
+    "party":"無所属",
+    "votes":4478
+  },
+  {
+    "order":14,
+    "elected":"true",
+    "name":"あべ　力也",
+    "party":"無所属",
+    "votes":4423.067
+  },
+  {
+    "order":15,
+    "elected":"true",
+    "name":"中里　光夫",
+    "party":"日本共産党",
+    "votes":4388
+  },
+  {
+    "order":16,
+    "elected":"true",
+    "name":"小松　ダイスケ",
+    "party":"自由民主党",
+    "votes":4376
+  },
+  {
+    "order":17,
+    "elected":"true",
+    "name":"いたい　ひとし",
+    "party":"公明党",
+    "votes":4312.051
+  },
+  {
+    "order":18,
+    "elected":"true",
+    "name":"山口　ひろひさ",
+    "party":"自由民主党",
+    "votes":4306
+  },
+  {
+    "order":19,
+    "elected":"true",
+    "name":"里吉　ゆみ",
+    "party":"日本共産党",
+    "votes":4297
+  },
+  {
+    "order":20,
+    "elected":"true",
+    "name":"山内　あきら",
+    "party":"自由民主党",
+    "votes":4276
+  },
+  {
+    "order":21,
+    "elected":"true",
+    "name":"青空　こうじ",
+    "party":"無所属",
+    "votes":4268
+  },
+  {
+    "order":22,
+    "elected":"true",
+    "name":"中村　コータロー",
+    "party":"民主党",
+    "votes":4197
+  },
+  {
+    "order":23,
+    "elected":"true",
+    "name":"村田　義則",
+    "party":"日本共産党",
+    "votes":4188
+  },
+  {
+    "order":24,
+    "elected":"true",
+    "name":"福田　たえみ",
+    "party":"公明党",
+    "votes":4171
+  },
+  {
+    "order":25,
+    "elected":"true",
+    "name":"杉田　みつのぶ",
+    "party":"公明党",
+    "votes":4137
+  },
+  {
+    "order":26,
+    "elected":"true",
+    "name":"桜井　純子",
+    "party":"世田谷・生活者ネットワーク",
+    "votes":4125.123
+  },
+  {
+    "order":27,
+    "elected":"true",
+    "name":"下山　よしお",
+    "party":"自由民主党",
+    "votes":4112
+  },
+  {
+    "order":28,
+    "elected":"true",
+    "name":"羽田　圭二",
+    "party":"社会民主党",
+    "votes":4071.200
+  },
+  {
+    "order":29,
+    "elected":"true",
+    "name":"平塚　けいじ",
+    "party":"公明党",
+    "votes":4068.001
+  },
+  {
+    "order":30,
+    "elected":"true",
+    "name":"岡本　のぶ子",
+    "party":"公明党",
+    "votes":4050
+  },
+  {
+    "order":31,
+    "elected":"true",
+    "name":"高橋　あきひこ",
+    "party":"公明党",
+    "votes":4017
+  },
+  {
+    "order":32,
+    "elected":"true",
+    "name":"津上　ひとし",
+    "party":"公明党",
+    "votes":3889.948
+  },
+  {
+    "order":33,
+    "elected":"true",
+    "name":"石川　ゆきお",
+    "party":"自由民主党",
+    "votes":3849
+  },
+  {
+    "order":34,
+    "elected":"true",
+    "name":"たかく　則男",
+    "party":"公明党",
+    "votes":3790
+  },
+  {
+    "order":35,
+    "elected":"true",
+    "name":"諸星　よういち",
+    "party":"公明党",
+    "votes":3646
+  },
+  {
+    "order":36,
+    "elected":"true",
+    "name":"江口　じゅん子",
+    "party":"日本共産党",
+    "votes":3592
+  },
+  {
+    "order":37,
+    "elected":"true",
+    "name":"高岡　じゅん子",
+    "party":"世田谷・生活者ネットワーク",
+    "votes":3452
+  },
+  {
+    "order":38,
+    "elected":"true",
+    "name":"しんかわ　勝二",
+    "party":"自由民主党",
+    "votes":3440
+  },
+  {
+    "order":39,
+    "elected":"true",
+    "name":"上山　なおのり",
+    "party":"自由民主党",
+    "votes":3411
+  },
+  {
+    "order":40,
+    "elected":"true",
+    "name":"和田　ひでとし",
+    "party":"自由民主党",
+    "votes":3402
+  },
+  {
+    "order":41,
+    "elected":"true",
+    "name":"三井　みほこ",
+    "party":"自由民主党",
+    "votes":3392
+  },
+  {
+    "order":42,
+    "elected":"true",
+    "name":"佐藤　ひろと",
+    "party":"公明党",
+    "votes":3380.088
+  },
+  {
+    "order":43,
+    "elected":"true",
+    "name":"桜井　みのる",
+    "party":"日本共産党",
+    "votes":3342.876
+  },
+  {
+    "order":44,
+    "elected":"true",
+    "name":"唐沢　としみ",
+    "party":"社会民主党",
+    "votes":3306
+  },
+  {
+    "order":45,
+    "elected":"true",
+    "name":"てるや　里美",
+    "party":"世田谷・生活者ネットワーク",
+    "votes":3249
+  },
+  {
+    "order":46,
+    "elected":"true",
+    "name":"中塚　さちよ",
+    "party":"民主党",
+    "votes":3201
+  },
+  {
+    "order":47,
+    "elected":"true",
+    "name":"木下　泰之",
+    "party":"無党派市民",
+    "votes":3145
+  },
+  {
+    "order":48,
+    "elected":"true",
+    "name":"桃野　よしふみ",
+    "party":"みんなの党",
+    "votes":3028
+  },
+  {
+    "order":49,
+    "elected":"true",
+    "name":"植田　靖子",
+    "party":"世田谷・生活者ネットワーク",
+    "votes":2936
+  },
+  {
+    "order":50,
+    "elected":"true",
+    "name":"あべ　弘幸",
+    "party":"自由民主党",
+    "votes":2894.461
+  },
+  {
+    "order":51,
+    "elected":"false",
+    "name":"鈴木　しょうじ",
+    "party":"自由民主党",
+    "votes":2775.000
+  },
+  {
+    "order":52,
+    "elected":"false",
+    "name":"西村　じゅんや",
+    "party":"民主党",
+    "votes":2641
+  },
+  {
+    "order":53,
+    "elected":"false",
+    "name":"赤沢　まさひこ",
+    "party":"自由民主党",
+    "votes":2598
+  },
+  {
+    "order":54,
+    "elected":"false",
+    "name":"下条　忠雄",
+    "party":"無所属",
+    "votes":2585
+  },
+  {
+    "order":55,
+    "elected":"false",
+    "name":"いそだ　久美子",
+    "party":"民主党",
+    "votes":2581
+  },
+  {
+    "order":56,
+    "elected":"false",
+    "name":"上杉　ひろゆき",
+    "party":"民主党",
+    "votes":2570.470
+  },
+  {
+    "order":57,
+    "elected":"false",
+    "name":"石綿　しげお",
+    "party":"みんなの党",
+    "votes":2559
+  },
+  {
+    "order":58,
+    "elected":"false",
+    "name":"稲垣　まさよし",
+    "party":"無所属",
+    "votes":2535
+  },
+  {
+    "order":59,
+    "elected":"false",
+    "name":"重政　はるゆき",
+    "party":"民主党",
+    "votes":2479
+  },
+  {
+    "order":60,
+    "elected":"false",
+    "name":"天坂　晴美",
+    "party":"自由民主党",
+    "votes":2434
+  },
+  {
+    "order":61,
+    "elected":"false",
+    "name":"小野　裕次郎",
+    "party":"民主党",
+    "votes":2245
+  },
+  {
+    "order":62,
+    "elected":"false",
+    "name":"はた　次郎",
+    "party":"民主党",
+    "votes":2234.797
+  },
+  {
+    "order":63,
+    "elected":"false",
+    "name":"藤井　まな",
+    "party":"民主党",
+    "votes":2135
+  },
+  {
+    "order":64,
+    "elected":"false",
+    "name":"あくつ　こう",
+    "party":"日本創新党",
+    "votes":2070
+  },
+  {
+    "order":65,
+    "elected":"false",
+    "name":"ゆさ　よしひろ",
+    "party":"無所属",
+    "votes":1987
+  },
+  {
+    "order":66,
+    "elected":"false",
+    "name":"原田　正幸",
+    "party":"「まちづくり・自治権」",
+    "votes":1849
+  },
+  {
+    "order":67,
+    "elected":"false",
+    "name":"いなだ　たかし",
+    "party":"民主党",
+    "votes":1819
+  },
+  {
+    "order":68,
+    "elected":"false",
+    "name":"小西　たかお",
+    "party":"無所属",
+    "votes":1786
+  },
+  {
+    "order":69,
+    "elected":"false",
+    "name":"はやま　園子",
+    "party":"民主党",
+    "votes":1613
+  },
+  {
+    "order":70,
+    "elected":"false",
+    "name":"そんだ　京子",
+    "party":"みんなの党",
+    "votes":1528
+  },
+  {
+    "order":71,
+    "elected":"false",
+    "name":"森村　いっぺい",
+    "party":"民主党",
+    "votes":1352
+  },
+  {
+    "order":72,
+    "elected":"false",
+    "name":"小山　やすし",
+    "party":"無所属",
+    "votes":1102.824
+  },
+  {
+    "order":73,
+    "elected":"false",
+    "name":"平林　ともひろ",
+    "party":"民主党",
+    "votes":1068
+  },
+  {
+    "order":74,
+    "elected":"false",
+    "name":"森　たいせい",
+    "party":"民主党",
+    "votes":1036.585
+  },
+  {
+    "order":75,
+    "elected":"false",
+    "name":"石井　かおる",
+    "party":"無所属",
+    "votes":988
+  },
+  {
+    "order":76,
+    "elected":"false",
+    "name":"森　学",
+    "party":"無所属",
+    "votes":968.415
+  },
+  {
+    "order":77,
+    "elected":"false",
+    "name":"ひろべ　雅子",
+    "party":"無所属",
+    "votes":620
+  },
+  {
+    "order":78,
+    "elected":"false",
+    "name":"小山　ひな子",
+    "party":"無所属",
+    "votes":497.175
+  },
+  {
+    "order":79,
+    "elected":"false",
+    "name":"鈴木　ゆうこ",
+    "party":"無所属",
+    "votes":395.999
+  },
+  {
+    "order":80,
+    "elected":"false",
+    "name":"山本　まさよし",
+    "party":"無所属",
+    "votes":391
+  },
+  {
+    "order":81,
+    "elected":"false",
+    "name":"とりはま　百代",
+    "party":"無所属",
+    "votes":214
+  },
+  {
+    "order":82,
+    "elected":"false",
+    "name":"松崎　やすとし",
+    "party":"無所属",
+    "votes":169
+  }
+]
