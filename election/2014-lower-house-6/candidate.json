@@ -1,0 +1,23 @@
+[
+  {
+    "order":1,
+    "elected":"true",
+    "name":"おち　たかお",
+    "party":"自由民主党",
+    "votes":110872
+  },
+  {
+    "order":2,
+    "elected":"false",
+    "name":"落合　貴之",
+    "party":"維新の党",
+    "votes":88915
+  },
+  {
+    "order":3,
+    "elected":"false",
+    "name":"岸　たけし",
+    "party":"日本共産党",
+    "votes":51595
+  }
+]

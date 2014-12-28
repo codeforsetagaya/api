@@ -1,0 +1,37 @@
+[
+  {
+    "order":1,
+    "elected":"true",
+    "name":"若宮　けんじ",
+    "party":"自由民主党",
+    "votes":55711
+  },
+  {
+    "order":2,
+    "elected":"false",
+    "name":"三谷　英弘",
+    "party":"",
+    "votes":22419
+  },
+  {
+    "order":3,
+    "elected":"false",
+    "name":"手塚　よしお",
+    "party":"民主党",
+    "votes":36165
+  },
+  {
+    "order":4,
+    "elected":"false",
+    "name":"ドクター・中松",
+    "party":"",
+    "votes":7041
+  },
+  {
+    "order":5,
+    "elected":"false",
+    "name":"沢井　正代",
+    "party":"日本共産党",
+    "votes":16505
+  }
+]
